@@ -1,0 +1,5 @@
+These options control compiler behavior regarding floating-point arithmetic. These options trade off between speed and correctness.
+
+| -cl-single-precision-constant | Treat double precision floating-point constant as single precision constant. |
+|:------------------------------|:-----------------------------------------------------------------------------|
+| -cl-denorms-are-zero          | This option controls how single precision and double precision denormalized numbers are handled. |

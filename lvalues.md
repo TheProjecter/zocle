@@ -1,0 +1,5 @@
+The followings are not l-values:
+  * function names
+  * swizzles with repeated fields
+  * constants
+  * The ternary operator (?:)

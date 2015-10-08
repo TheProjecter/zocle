@@ -1,0 +1,3 @@
+# Which programming language I use for zocle #
+
+I use C to implement zocle, because I think C is more portable than C++ in the embedded system world.

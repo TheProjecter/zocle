@@ -1,0 +1,5 @@
+  * Samplers **cannot** be declared as arrays, pointers.
+  * **cannot** be used as the type for local variables inside a function.
+  * **cannot** be the return value of a function defined in a program.
+  * **cannot** be passed as arguments to functions called by a kernel function.
+  * A sampler argument to a kernel function **cannot** be modified.

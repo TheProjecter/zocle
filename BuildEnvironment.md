@@ -1,0 +1,3 @@
+Currently, zocle can be built by the following environment and toolchain.
+
+  * Microsoft Windows XP SP2 + TDM MinGW with GCC 4.3.3-1
